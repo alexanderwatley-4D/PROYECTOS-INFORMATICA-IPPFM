@@ -1,6 +1,6 @@
 Proyecto: Inventario de una tienda
 
-Estudiante: Escribe tu nombre completo.
+Estudiante: Alexander Watley Abreu 5D
 
 Descripción
 
